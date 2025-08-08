@@ -528,7 +528,9 @@ function App() {
                     </div>
                   ))}
                 </div>
-                <button className="w-full mt-6 bg-gradient-to-r from-pink-500 to-purple-600 text-white font-semibold py-3 px-6 rounded-lg hover:from-pink-600 hover:to-purple-700 transition-colors duration-300">
+                <button 
+                   onClick={() => window.open("https://www.instagram.com/rotaractclubofcelebrities", "_blank")}
+                  className="w-full mt-6 bg-gradient-to-r from-pink-500 to-purple-600 text-white font-semibold py-3 px-6 rounded-lg hover:from-pink-600 hover:to-purple-700 transition-colors duration-300">
                   @rotaractclubofcelebrities
                 </button>
               </div>
