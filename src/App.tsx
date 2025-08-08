@@ -93,19 +93,19 @@ function App() {
 
   const leadership = [
     {
-      name: "Priya Sharma",
+      name: "Vignesh Sundaram",
       position: "President",
       description: "Leading with passion and dedication to serve our community",
       image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     {
-      name: "Rajesh Kumar",
+      name: "Vignesh Sundaram",
       position: "Vice President",
       description: "Coordinating projects and building community partnerships",
       image: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     {
-      name: "Anjali Patel",
+      name: "Baiju",
       position: "Secretary",
       description: "Managing communications and organizing events",
       image: "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=300"
@@ -529,7 +529,7 @@ function App() {
                   ))}
                 </div>
                 <button className="w-full mt-6 bg-gradient-to-r from-pink-500 to-purple-600 text-white font-semibold py-3 px-6 rounded-lg hover:from-pink-600 hover:to-purple-700 transition-colors duration-300">
-                  @rotaractchennaiceleb
+                  @rotaractclubofcelebrities
                 </button>
               </div>
             </div>
