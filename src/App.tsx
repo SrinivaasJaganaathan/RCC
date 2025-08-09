@@ -93,10 +93,10 @@ function App() {
 
   const leadership = [
     {
-      name: "Vignesh Sundaram",
+      name: "Vinoth Siranjeevi",
       position: "President",
       description: "Leading with passion and dedication to serve our community",
-      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=300"
+      image: "https://www.instagram.com/vinodhchiranjeevi_fp/?hl=en-gb?auto=compress&cs=tinysrgb&w=300"
     },
     {
       name: "Vignesh Sundaram",
